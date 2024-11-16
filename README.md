@@ -1,1 +1,2 @@
 # Resume
+"This repository features a professional and well-structured student resume tailored to showcase skills, projects, and academic achievements. It highlights expertise in data analysis, programming, and software development, with sections detailing certifications, extracurricular leadership roles, and relevant technical proficiencies. Ideal for aspiring professionals seeking roles in technology, data science, and engineering domains."
